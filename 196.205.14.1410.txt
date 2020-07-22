@@ -1,0 +1,120 @@
+# last reboot
+reboot   system boot  2.4.21-47.ELsmp  Sun Jan 26 09:02         (1+01:26)
+reboot   system boot  2.4.21-47.ELsmp  Fri Jan 24 07:20         (3+03:08)
+reboot   system boot  2.4.21-47.ELsmp  Fri Jan 24 07:04         (3+03:24)
+reboot   system boot  2.4.21-47.ELsmp  Thu Jan 23 21:25         (3+13:03)
+reboot   system boot  2.4.21-47.ELsmp  Wed Jan  8 14:09         (18+20:19)
+reboot   system boot  2.4.21-47.ELsmp  Wed Jan  8 12:35         (18+21:53)
+
+wtmp begins Sun Jan  5 18:38:09 2014
+
+-----------------------------------------------------------------------------
+# more messages* | grep eth0 | more
+Jan 26 09:02:51 Primary_PP network: Bringing up interface eth0:  succeeded
+Jan 26 09:02:59 Primary_PP kernel: e1000: eth0: e1000_probe: Intel(R) PRO/1000 N
+etwork Connection
+Jan 26 09:02:59 Primary_PP kernel: e1000: eth0: e1000_probe: Intel(R) PRO/1000 N
+etwork Connection
+Jan 26 09:02:59 Primary_PP kernel: e1000: eth0: e1000_watchdog_task: NIC Link is
+ Up 100 Mbps Full Duplex
+Jan 26 09:03:06 Primary_PP sarouter: MAC(eth0) = 001517-3A12F2
+Jan 20 05:51:35 Primary_PP kernel: e1000: eth0: e1000_watchdog_task: NIC Link is
+ Down
+Jan 20 05:51:42 Primary_PP kernel: e1000: eth0: e1000_watchdog_task: NIC Link is
+ Up 100 Mbps Full Duplex
+Jan 20 05:52:13 Primary_PP kernel: e1000: eth0: e1000_watchdog_task: NIC Link is
+ Down
+Jan 20 05:52:15 Primary_PP kernel: e1000: eth0: e1000_watchdog_task: NIC Link is
+ Up 100 Mbps Full Duplex
+Jan 20 05:52:22 Primary_PP kernel: e1000: eth0: e1000_watchdog_task: NIC Link is
+ Down
+Jan 20 05:52:28 Primary_PP kernel: e1000: eth0: e1000_watchdog_task: NIC Link is
+ Up 100 Mbps Full Duplex
+Jan 23 21:21:26 Primary_PP kernel: e1000: eth0: e1000_watchdog_task: NIC Link is
+ Down
+Jan 23 21:25:45 Primary_PP network: Bringing up interface eth0:  succeeded
+Jan 23 21:25:54 Primary_PP kernel: e1000: eth0: e1000_probe: Intel(R) PRO/1000 Network Connection
+Jan 23 21:25:54 Primary_PP kernel: e1000: eth0: e1000_probe: Intel(R) PRO/1000 Network Connection
+Jan 23 21:25:54 Primary_PP kernel: e1000: eth0: e1000_watchdog_task: NIC Link is Up 100 Mbps Full Duplex
+Jan 23 21:26:00 Primary_PP sarouter: MAC(eth0) = 001517-3A12F2
+Jan 24 07:04:25 Primary_PP network: Bringing up interface eth0:  succeeded
+Jan 24 07:04:34 Primary_PP kernel: e1000: eth0: e1000_probe: Intel(R) PRO/1000 Network Connection
+Jan 24 07:04:34 Primary_PP kernel: e1000: eth0: e1000_probe: Intel(R) PRO/1000 Network Connection
+Jan 24 07:04:34 Primary_PP kernel: e1000: eth0: e1000_watchdog_task: NIC Link is Up 100 Mbps Full Duplex
+Jan 24 07:04:40 Primary_PP sarouter: MAC(eth0) = 001517-3A12F2
+Jan 24 07:20:49 Primary_PP network: Bringing up interface eth0:  succeeded
+Jan 24 07:20:58 Primary_PP kernel: e1000: eth0: e1000_probe: Intel(R) PRO/1000 Network Connection
+Jan 24 07:20:58 Primary_PP kernel: e1000: eth0: e1000_probe: Intel(R) PRO/1000 Network Connection
+Jan 24 07:20:58 Primary_PP kernel: e1000: eth0: e1000_watchdog_task: NIC Link is Up 100 Mbps Full Duplex
+Jan 24 07:21:04 Primary_PP sarouter: MAC(eth0) = 001517-3A12F2
+Jan 24 07:23:39 Primary_PP kernel: e1000: eth0: e1000_watchdog_task: NIC Link is Down
+Jan 24 07:23:44 Primary_PP kernel: e1000: eth0: e1000_watchdog_task: NIC Link is Up 100 Mbps Full Duplex
+Jan 24 07:24:16 Primary_PP kernel: e1000: eth0: e1000_watchdog_task: NIC Link is Down
+Jan 24 07:24:17 Primary_PP kernel: e1000: eth0: e1000_watchdog_task: NIC Link is Up 100 Mbps Full Duplex
+Jan 24 07:24:24 Primary_PP kernel: e1000: eth0: e1000_watchdog_task: NIC Link is Down
+Jan 24 07:24:31 Primary_PP kernel: e1000: eth0: e1000_watchdog_task: NIC Link is Up 100 Mbps Full Duplex
+Jan  8 12:35:46 Primary_PP network: Bringing up interface eth0:  succeeded
+Jan  8 12:35:55 Primary_PP kernel: e1000: eth0: e1000_probe: Intel(R) PRO/1000 Network Connection
+Jan  8 12:35:55 Primary_PP kernel: e1000: eth0: e1000_probe: Intel(R) PRO/1000 Network Connection
+Jan  8 12:35:55 Primary_PP kernel: e1000: eth0: e1000_watchdog_task: NIC Link is Up 100 Mbps Full Duplex
+Jan  8 12:36:02 Primary_PP sarouter: MAC(eth0) = 001517-3A12F2
+Jan  8 14:09:45 Primary_PP network: Bringing up interface eth0:  succeeded
+Jan  8 14:09:53 Primary_PP kernel: e1000: eth0: e1000_probe: Intel(R) PRO/1000 Network Connection
+Jan  8 14:09:54 Primary_PP kernel: e1000: eth0: e1000_probe: Intel(R) PRO/1000 Network Connection
+Jan  8 14:09:54 Primary_PP kernel: e1000: eth0: e1000_watchdog_task: NIC Link is Up 100 Mbps Full Duplex
+Jan  8 14:10:01 Primary_PP sarouter: MAC(eth0) = 001517-3A12F2
+Jan  8 15:28:16 Primary_PP sarouter: MAC(eth0) = 001517-3A12F2
+Dec 30 07:52:13 Primary_PP kernel: e1000: eth0: e1000_watchdog_task: NIC Link is Down
+Dec 30 07:52:20 Primary_PP kernel: e1000: eth0: e1000_watchdog_task: NIC Link is Up 100 Mbps Full Duplex
+Dec 30 07:52:52 Primary_PP kernel: e1000: eth0: e1000_watchdog_task: NIC Link is Down
+Dec 30 07:52:54 Primary_PP kernel: e1000: eth0: e1000_watchdog_task: NIC Link is Up 100 Mbps Full Duplex
+Dec 30 07:53:00 Primary_PP kernel: e1000: eth0: e1000_watchdog_task: NIC Link is Down
+Dec 30 07:53:06 Primary_PP kernel: e1000: eth0: e1000_watchdog_task: NIC Link is Up 100 Mbps Full Duplex
+
+----------------------------------------------------------------------------------------------
+# more messages* | grep eth1 | more
+Jan 26 09:02:53 Primary_PP network: Bringing up interface eth1:  succeeded
+Jan 26 09:02:59 Primary_PP kernel: e1000: eth1: e1000_probe: Intel(R) PRO/1000 Network Connection
+Jan 26 09:02:59 Primary_PP kernel: e1000: eth1: e1000_probe: Intel(R) PRO/1000 Network Connection
+Jan 26 09:02:59 Primary_PP kernel: e1000: eth1: e1000_watchdog_task: NIC Link is Up 100 Mbps Full Duplex
+Jan 20 05:51:35 Primary_PP kernel: e1000: eth1: e1000_watchdog_task: NIC Link is Down
+Jan 20 05:51:42 Primary_PP kernel: e1000: eth1: e1000_watchdog_task: NIC Link is Up 100 Mbps Full Duplex
+Jan 20 05:52:16 Primary_PP kernel: e1000: eth1: e1000_watchdog_task: NIC Link is Down
+Jan 20 05:52:18 Primary_PP kernel: e1000: eth1: e1000_watchdog_task: NIC Link is Up 100 Mbps Full Duplex
+Jan 20 05:52:22 Primary_PP kernel: e1000: eth1: e1000_watchdog_task: NIC Link is Down
+Jan 20 05:52:28 Primary_PP kernel: e1000: eth1: e1000_watchdog_task: NIC Link is Up 100 Mbps Full Duplex
+Jan 23 21:25:47 Primary_PP network: Bringing up interface eth1:  succeeded
+Jan 23 21:25:54 Primary_PP kernel: e1000: eth1: e1000_probe: Intel(R) PRO/1000 Network Connection
+Jan 23 21:25:54 Primary_PP kernel: e1000: eth1: e1000_probe: Intel(R) PRO/1000 Network Connection
+Jan 23 21:25:54 Primary_PP kernel: e1000: eth1: e1000_watchdog_task: NIC Link is Up 100 Mbps Full Duplex
+Jan 24 07:04:27 Primary_PP network: Bringing up interface eth1:  succeeded
+Jan 24 07:04:34 Primary_PP kernel: e1000: eth1: e1000_probe: Intel(R) PRO/1000 Network Connection
+Jan 24 07:04:34 Primary_PP kernel: e1000: eth1: e1000_probe: Intel(R) PRO/1000 Network Connection
+Jan 24 07:04:34 Primary_PP kernel: e1000: eth1: e1000_watchdog_task: NIC Link is Up 100 Mbps Full Duplex
+Jan 24 07:20:51 Primary_PP network: Bringing up interface eth1:  succeeded
+Jan 24 07:20:58 Primary_PP kernel: e1000: eth1: e1000_probe: Intel(R) PRO/1000 Network Connection
+Jan 24 07:20:58 Primary_PP kernel: e1000: eth1: e1000_probe: Intel(R) PRO/1000 Network Connection
+Jan 24 07:20:58 Primary_PP kernel: e1000: eth1: e1000_watchdog_task: NIC Link is Up 100 Mbps Full Duplex
+Jan 24 07:23:39 Primary_PP kernel: e1000: eth1: e1000_watchdog_task: NIC Link is Down
+Jan 24 07:23:44 Primary_PP kernel: e1000: eth1: e1000_watchdog_task: NIC Link is Up 100 Mbps Full Duplex
+Jan 24 07:24:19 Primary_PP kernel: e1000: eth1: e1000_watchdog_task: NIC Link is Down
+Jan 24 07:24:20 Primary_PP kernel: e1000: eth1: e1000_watchdog_task: NIC Link is Up 100 Mbps Full Duplex
+Jan 24 07:24:24 Primary_PP kernel: e1000: eth1: e1000_watchdog_task: NIC Link is Down
+Jan 24 07:24:31 Primary_PP kernel: e1000: eth1: e1000_watchdog_task: NIC Link is Up 100 Mbps Full Duplex
+Jan  8 12:35:48 Primary_PP network: Bringing up interface eth1:  succeeded
+Jan  8 12:35:55 Primary_PP kernel: e1000: eth1: e1000_probe: Intel(R) PRO/1000 Network Connection
+Jan  8 12:35:55 Primary_PP kernel: e1000: eth1: e1000_probe: Intel(R) PRO/1000 Network Connection
+Jan  8 12:35:55 Primary_PP kernel: e1000: eth1: e1000_watchdog_task: NIC Link is Up 100 Mbps Full Duplex
+Jan  8 14:09:47 Primary_PP network: Bringing up interface eth1:  succeeded
+Jan  8 14:09:53 Primary_PP kernel: e1000: eth1: e1000_probe: Intel(R) PRO/1000 Network Connection
+Jan  8 14:09:54 Primary_PP kernel: e1000: eth1: e1000_probe: Intel(R) PRO/1000 Network Connection
+Jan  8 14:09:54 Primary_PP kernel: e1000: eth1: e1000_watchdog_task: NIC Link is Up 100 Mbps Full Duplex
+Dec 30 07:52:13 Primary_PP kernel: e1000: eth1: e1000_watchdog_task: NIC Link is Down
+Dec 30 07:52:20 Primary_PP kernel: e1000: eth1: e1000_watchdog_task: NIC Link is Up 100 Mbps Full Duplex
+Dec 30 07:52:55 Primary_PP kernel: e1000: eth1: e1000_watchdog_task: NIC Link is Down
+Dec 30 07:52:57 Primary_PP kernel: e1000: eth1: e1000_watchdog_task: NIC Link is Up 100 Mbps Full Duplex
+Dec 30 07:53:00 Primary_PP kernel: e1000: eth1: e1000_watchdog_task: NIC Link is Down
+Dec 30 07:53:06 Primary_PP kernel: e1000: eth1: e1000_watchdog_task: NIC Link is Up 100 Mbps Full Duplex
+--------------------------------------------------------------------------
+# uptime
+ 10:30:32  up 1 day,  1:28,  1 user,  load average: 0.16, 0.20, 0.17
